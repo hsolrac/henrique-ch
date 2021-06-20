@@ -4,13 +4,15 @@
 -  I’m currently learning Fullstack and Machine Learning
 -  2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play chess, games and listen music.
-<!-- 
+
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 
-<br /> -->
+[<img align="left" alt="Carlos Henrique | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Carlos Henrique | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Carlos Henrique | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
+
+<br />
 
 ### Languages and Tools:
 
