@@ -24,7 +24,7 @@
 <img alt="rubymine" width="26px" src="https://mpng.subpng.com/20180605/oot/kisspng-rubymine-jetbrains-intellij-idea-computer-software-license-commercial-use-5b1618543bc9f8.5010119215281746762449.jpg" />
 </code>](https://www.jetbrains.com/rubymine/)
 [<code>
-<img alt="Ruby on Rails" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="Ruby on Rails" width="26px" src="https://img.icons8.com/fluent/48/000000/ruby-programming-language.png" />
 </code>](https://rubyonrails.org/)
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
