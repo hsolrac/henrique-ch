@@ -5,7 +5,7 @@
 -  2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play chess, games and listen music.
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### Connect with me: 
 
 
 [<img align="left" alt="Carlos Henrique | LinkedIn" height="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
