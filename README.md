@@ -8,7 +8,7 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 
-[<img align="left" alt="Carlos Henrique | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Carlos Henrique | LinkedIn" height="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Carlos Henrique | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Carlos Henrique | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 
