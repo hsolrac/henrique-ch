@@ -75,10 +75,10 @@
 
 ---
 
-<a href="https://github-readme-stats.HENRIQUE-CH.vercel.app/api?username=HENRIQUE-CH&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.HENRIQUE-CH.vercel.app/api?username=HENRIQUE-CH&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.HENRIQUE-CH.vercel.app/api/top-langs/?username=HENRIQUE-CH&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.HENRIQUE-CH.vercel.app/api/top-langs/?username=HENRIQUE-CH&layout=compact&theme=radical" />
-</a>
+
 
 ---
+
+[linkedin]: https://www.linkedin.com/in/carlos-henrique-68664113a/
+[whatsapp]: https://wa.me/62994695759
+[telegram]: https://telegram.me/Tcarloshenriquess
