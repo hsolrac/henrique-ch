@@ -17,12 +17,7 @@
 
 ### Languages and Tools:
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
+
 [<code>
 <img alt="rubymine" width="26px" src="https://mpng.subpng.com/20180605/oot/kisspng-rubymine-jetbrains-intellij-idea-computer-software-license-commercial-use-5b1618543bc9f8.5010119215281746762449.jpg" />
 </code>](https://www.jetbrains.com/rubymine/)
@@ -48,9 +43,6 @@
 <img alt="Postgres" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png">
 </code>](https://www.postgresql.org/)
 [<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-[<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
@@ -60,9 +52,6 @@
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
