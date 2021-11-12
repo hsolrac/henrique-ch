@@ -7,7 +7,7 @@
 
 ### Connect with me: 
 
-
+ [![Linkedin Badge](https://www.linkedin.com/in/carlos-henrique-68664113a/)
 [<img align="left" alt="Carlos Henrique | LinkedIn" height="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Carlos Henrique | Whatsapp" height="22px" src="https://i.pinimg.com/originals/7e/68/35/7e68352dbb78715ab8d44d647164cff8.png" />][whatsapp]
 [<img align="left" alt="Carlos Henrique | Telegram" height="22px" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo.png" />][telegram]
