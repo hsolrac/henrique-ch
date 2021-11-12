@@ -7,8 +7,8 @@
 
 ### Connect with me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Lima%20%28Kvasir%29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloskvasir)][Linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:git@carloskvasir.dev)][Gmail] 
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Lima%20%28Henrique%29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloshenrique)][Linkedin]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ch.henriquevinha@gmail.com][Gmail] 
 [<img align="left" alt="Carlos Henrique | Whatsapp" height="22px" src="https://i.pinimg.com/originals/7e/68/35/7e68352dbb78715ab8d44d647164cff8.png" />][whatsapp]
 [<img align="left" alt="Carlos Henrique | Telegram" height="22px" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo.png" />][telegram]
 
