@@ -3,7 +3,7 @@
 
 -  I’m currently working as a full stack developer
 -  2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I love to play chess, games and listen music.
+- ⚡ Fun fact: Games and listen music.
 
 ### Connect with me: 
 
