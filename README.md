@@ -2,7 +2,7 @@
 
 
 -  I’m currently working as a full stack developer
--  2022 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+-  2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies(currently Golang).
 
 ### Connect with me: 
 
